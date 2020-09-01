@@ -10,6 +10,9 @@
   <img align="left" alt="krishna fb" width="21px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/facebook-16x16.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=krish143434.krish143434)
+
+
 <br />
 <br />
 
