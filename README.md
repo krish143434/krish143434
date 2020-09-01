@@ -46,7 +46,7 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 ### Certifications and Badges:
 
 <a href="https://www.youracclaim.com/badges/e328992a-157a-4a28-a70f-8463baf9944b?source=linked_in_profile" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="100" height="100" /></a>
-<a href="https://www.youracclaim.com/earner/earned/badge/124a028e-74e9-442b-bde7-8bf5a893b512/public_url" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
+<a href="https://www.youracclaim.com/badges/124a028e-74e9-442b-bde7-8bf5a893b512/linked_in_profile" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
 
 <br />
 
