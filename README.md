@@ -44,6 +44,7 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 <img align="left" alt="CircleCI" width="26px" src="https://www.pikpng.com/pngl/b/193-1930090_circleci-logo-clipart.png" />
 
 ---
+
 <br/>
 
 ### Certifications and Badges:
