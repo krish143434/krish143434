@@ -43,15 +43,14 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 <img align="left" alt="VMware" width="26px" src="https://img.icons8.com/color/48/000000/old-vmware-logo.png" />
 <img align="left" alt="CircleCI" width="26px" src="https://www.pikpng.com/pngl/b/193-1930090_circleci-logo-clipart.png" />
 
-<br>
+---
+<br/>
 
 ### Certifications and Badges:
 
 <a href="https://www.youracclaim.com/badges/e328992a-157a-4a28-a70f-8463baf9944b?source=linked_in_profile" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="100" height="100" /></a>
 <a href="https://www.youracclaim.com/badges/124a028e-74e9-442b-bde7-8bf5a893b512/linked_in_profile" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
 <a href="Gr750435053KK" target="_blank"><img src="https://zeedup.com/wp-content/uploads/2019/06/51LoDJhdZL.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
-
-<br />
 
 ---
 
