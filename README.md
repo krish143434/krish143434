@@ -12,6 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=krish143434.krish143434)
 
+<img src="https://media.giphy.com/media/jQPW8s9c9zifEt7IBh/giphy.gif" width="500" height="300" align="right" />
 
 <br />
 <br />
@@ -43,6 +44,7 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 <img align="left" alt="CircleCI" width="26px" src="https://www.pikpng.com/pngl/b/193-1930090_circleci-logo-clipart.png" />
 
 <br />
+<br>
 
 ### Certifications and Badges:
 
