@@ -45,7 +45,7 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
 ---
 
-<br/>
+<br />
 
 ### Certifications and Badges:
 
