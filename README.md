@@ -43,7 +43,6 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 <img align="left" alt="VMware" width="26px" src="https://img.icons8.com/color/48/000000/old-vmware-logo.png" />
 <img align="left" alt="CircleCI" width="26px" src="https://www.pikpng.com/pngl/b/193-1930090_circleci-logo-clipart.png" />
 
-<br />
 <br>
 
 ### Certifications and Badges:
