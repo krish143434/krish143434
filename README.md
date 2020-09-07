@@ -6,8 +6,8 @@
 <a href="https://twitter.com/kskr434">
   <img align="left" alt="krishna twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/krishna143434">
-  <img align="left" alt="krishna fb" width="21px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/facebook-16x16.png" />
+<a href="https://medium.com/@kskr434">
+  <img align="left" alt="krishna medium" width="21px" src="https://icon-library.com/images/medium-icon/medium-icon-21.jpg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=krish143434.krish143434)
