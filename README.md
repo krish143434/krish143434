@@ -19,7 +19,7 @@
 
 Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
-- 🔭 I’m currently working as **Senior Devops engineer** with **[Unify Technologies](https://unifytech.com/)**
+- 🔭 I’m currently working as **Senior Devops engineer**
 - 💬 Ask me about anything [here](https://github.com/krish143434/krish143434/issues)
 
 ### Languages and Tools:
@@ -51,8 +51,9 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
 <a href="https://www.youracclaim.com/badges/e328992a-157a-4a28-a70f-8463baf9944b?source=linked_in_profile" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="100" height="100" /></a>
 <a href="https://www.youracclaim.com/badges/124a028e-74e9-442b-bde7-8bf5a893b512/linked_in_profile" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
-<a href="Gr750435053KK" target="_blank"><img src="https://zeedup.com/wp-content/uploads/2019/06/51LoDJhdZL.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
+<a href="Gr750435053KK" target="_blank"><img src="https://images-eu.ssl-images-amazon.com/images/I/51LoDJhd%2BZL.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
 <a href="https://www.youracclaim.com/badges/716a3c29-83d5-4fb9-8989-e3d19b9f6557" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Admin" width="100" height="100" align="left" /></a>
+<a href="https://www.credly.com/badges/75191c8f-f7f8-4d0e-b93c-58f6f6c078d8" target="_blank"><img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS arch Associate" width="100" height="100" align="left" /></a>
 
 ---
 
