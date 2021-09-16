@@ -26,7 +26,7 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terraform" width="26px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
+<img align="left" alt="Terraform" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
 <img align="left" alt="Azure DevOps" width="26px" src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/Azure%20DevOps.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
