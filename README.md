@@ -54,6 +54,7 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 <a href="Gr750435053KK" target="_blank"><img src="https://images-eu.ssl-images-amazon.com/images/I/51LoDJhd%2BZL.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
 <a href="https://www.youracclaim.com/badges/716a3c29-83d5-4fb9-8989-e3d19b9f6557" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Admin" width="100" height="100" align="left" /></a>
 <a href="https://www.credly.com/badges/75191c8f-f7f8-4d0e-b93c-58f6f6c078d8" target="_blank"><img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS arch Associate" width="100" height="100" align="left" /></a>
+<a href="https://www.credly.com/badges/4d87ffa7-cfe3-453c-a512-0c03b2f370d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" width="100" height="100" align="left" /></a>
 
 ---
 
