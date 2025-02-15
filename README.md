@@ -1,6 +1,6 @@
 ### Hi there, I'm Sai krishna reddy! 👋
 
-<a href="https://www.linkedin.com/in/sai-krishna-reddy-karri-44b394ba/">
+<a href="https://www.linkedin.com/in/krish143434/">
   <img align="left" alt="Krishna Linkdin | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" />
 </a>
 <a href="https://twitter.com/kskr434">
