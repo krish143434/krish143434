@@ -10,7 +10,10 @@
   <img align="left" alt="krishna medium" width="21px" src="https://icon-library.com/images/medium-icon/medium-icon-21.jpg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=krish143434.krish143434)
+<a href="https://krish143434.github.io">
+  <img align="left" alt="About Me" width="21px" src="https://cdn-icons-png.flaticon.com/512/5710/5710195.png"/>
+</a>
+
 
 <img src="https://media1.tenor.com/m/sBvKTWFmr3IAAAAd/platform-engineering.gif" width="500" height="300" align="right" />
 
